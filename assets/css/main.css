@@ -618,7 +618,7 @@ header .bluebutton{
 }
 
 .bluebutton:hover{
-	background-color: #8c1daf;
+	background-color: white;
 	transition: background-color 0.3s ease;
 	text-decoration: none;
 	color: black;
